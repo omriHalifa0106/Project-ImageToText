@@ -1,0 +1,12 @@
+{
+  "name": "ImageToText",
+  "displayName": "ImageToText",
+  "expo": {
+    "name": "ImageToText",
+    "slug": "ImageToText",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
